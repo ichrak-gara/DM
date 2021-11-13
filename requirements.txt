@@ -1,4 +1,3 @@
 pandas==1.1.3
 numpy==1.19.2
-skimage==0.17.2
 widgts==7.5.1
